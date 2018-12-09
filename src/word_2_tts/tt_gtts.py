@@ -14,8 +14,8 @@ class Application(Frame):
     def create_widgets(self):
         #
         self.tans_word_enter = Text(self)
-        self.tans_word_enter["height"] = 10
-        self.tans_word_enter["width"] = 70
+        self.tans_word_enter["height"] = 20
+        self.tans_word_enter["width"] = 90
         self.tans_word_enter.pack(side="top")
         self.pack(side="top")
 
