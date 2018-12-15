@@ -1,0 +1,4 @@
+PyInstaller==3.4
+PyQt5==5.10.1
+sip==4.19.8
+
