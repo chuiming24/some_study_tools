@@ -10,4 +10,4 @@ idna==2.7
 requests==2.20.1
 six==1.11.0
 tomorrow==0.2.4
-urllib3==1.24.2
+urllib3==1.26.5
